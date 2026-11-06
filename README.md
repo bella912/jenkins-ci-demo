@@ -1,2 +1,4 @@
 # jenkins-ci-demo
-Run tests using `python -m unittest discover -s tests ` 
+Run tests manually using `python -m unittest discover -s tests ` 
+
+This repository is built automatically by a Jenkins Freestyle job 
