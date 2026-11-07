@@ -9,7 +9,7 @@ class TestAddNumbers(unittest.TestCase):
         self.assertEqual(add_numbers(-1, 1), 0)
 
     def test_multiply(self):
-        self.assertEqual(multiply_numbers(2, 2), 5)
+        self.assertEqual(multiply_numbers(2, 2), 4)
 
 if __name__ == "__main__":
     unittest.main()
